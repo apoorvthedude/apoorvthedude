@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Apoorv Gupta</h1>
-<h3 align="center">A passionate programming enthusiast from India,self-driven & like to solve problems.</h3>
+<h3 align="center">A passionate programming enthusiast,self-driven & like to solve problems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=apoorvthedude&label=Profile%20views&color=0e75b6&style=flat" alt="apoorvthedude" /> </p>
 
