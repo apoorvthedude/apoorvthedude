@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **theapoorvgupta@gmail.com**
 
-- 📄 Know about my experiences [My CV](tinyurl.com/2366rsea)
+- 📄 Know about my experiences [My CV]([tinyurl.com/2366rsea)](https://drive.google.com/file/d/1dyaaPqcNfC0JsTdYtCd-jZwEe16per2B/view)
 
 - ⚡ Fun fact **The "hash table" data structure, commonly used for fast lookups, was first proposed by Donald Knuth in 1963.**
 
