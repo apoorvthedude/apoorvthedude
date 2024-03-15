@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Apoorv Gupta</h1>
-<h3 align="center">A passionate programming enthusiast,self-driven & like to solve problems.</h3>
+<h3 align="center">Programming enthusiast I like to solve challenging problems, adapt to new technology quickly, and self-driven. </h3>
 <br><p></p>
-<p align="center">
-  <img src="https://media.giphy.com/media/l0IyeheChYxx2byDu/giphy.gif" alt="GIF" width="480" height="480" />
-</p>
+
 <p align="left"> <img src="https://visitor-badge.glitch.me/badge?page_id=apoorvthedude.apoorvthedude" alt="Profile visitors"></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apoorvthedude" alt="apoorvthedude" /></a> </p>
